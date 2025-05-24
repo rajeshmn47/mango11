@@ -1,0 +1,49 @@
+androidx.versionedparcelable.CustomVersionedParcelable
+com.google.androidbrowserhelper.trusted.FocusActivity
+androidx.core.graphics.drawable.IconCompatParcelizer
+com.google.androidbrowserhelper.trusted.ManageDataLauncherActivity
+android.support.v4.app.RemoteActionCompatParcelizer
+com.google.androidbrowserhelper.trusted.NotificationPermissionRequestActivity
+androidx.core.content.FileProvider
+androidx.browser.browseractions.BrowserActionsFallbackMenuView
+androidx.core.app.RemoteActionCompatParcelizer
+androidx.lifecycle.SingleGeneratedAdapterObserver
+android.support.v4.graphics.drawable.IconCompatParcelizer
+androidx.core.app.RemoteActionCompat
+fun.mangogames.twa.LauncherActivity
+com.google.androidbrowserhelper.trusted.WebViewFallbackActivity
+fun.mangogames.twa.DelegationService
+androidx.lifecycle.FullLifecycleObserverAdapter
+androidx.core.app.CoreComponentFactory
+fun.mangogames.twa.Application
+androidx.versionedparcelable.ParcelImpl
+androidx.core.graphics.drawable.IconCompat
+androidx.lifecycle.ReflectiveGenericLifecycleObserver
+androidx.annotation.Keep
+androidx.lifecycle.CompositeGeneratedAdaptersObserver
+androidx.versionedparcelable.ParcelImpl: android.os.Parcelable$Creator CREATOR
+androidx.core.graphics.drawable.IconCompatParcelizer: IconCompatParcelizer()
+androidx.core.graphics.drawable.IconCompatParcelizer: androidx.core.graphics.drawable.IconCompat read(androidx.versionedparcelable.VersionedParcel)
+fun.mangogames.twa.DelegationService: DelegationService()
+androidx.browser.browseractions.BrowserActionsFallbackMenuView: BrowserActionsFallbackMenuView(android.content.Context,android.util.AttributeSet)
+android.support.v4.app.RemoteActionCompatParcelizer: void write(androidx.core.app.RemoteActionCompat,androidx.versionedparcelable.VersionedParcel)
+androidx.core.graphics.drawable.IconCompatParcelizer: void write(androidx.core.graphics.drawable.IconCompat,androidx.versionedparcelable.VersionedParcel)
+android.support.v4.graphics.drawable.IconCompatParcelizer: androidx.core.graphics.drawable.IconCompat read(androidx.versionedparcelable.VersionedParcel)
+com.google.androidbrowserhelper.trusted.WebViewFallbackActivity: WebViewFallbackActivity()
+com.google.androidbrowserhelper.trusted.NotificationPermissionRequestActivity: NotificationPermissionRequestActivity()
+androidx.core.app.RemoteActionCompatParcelizer: androidx.core.app.RemoteActionCompat read(androidx.versionedparcelable.VersionedParcel)
+androidx.core.app.RemoteActionCompat: RemoteActionCompat()
+android.support.v4.app.RemoteActionCompatParcelizer: RemoteActionCompatParcelizer()
+androidx.core.app.RemoteActionCompatParcelizer: RemoteActionCompatParcelizer()
+androidx.core.content.FileProvider: FileProvider()
+androidx.core.app.CoreComponentFactory: CoreComponentFactory()
+android.support.v4.graphics.drawable.IconCompatParcelizer: void write(androidx.core.graphics.drawable.IconCompat,androidx.versionedparcelable.VersionedParcel)
+com.google.androidbrowserhelper.trusted.FocusActivity: FocusActivity()
+fun.mangogames.twa.Application: Application()
+fun.mangogames.twa.LauncherActivity: LauncherActivity()
+androidx.core.app.RemoteActionCompatParcelizer: void write(androidx.core.app.RemoteActionCompat,androidx.versionedparcelable.VersionedParcel)
+android.support.v4.graphics.drawable.IconCompatParcelizer: IconCompatParcelizer()
+androidx.core.graphics.drawable.IconCompat: IconCompat()
+android.support.v4.app.RemoteActionCompatParcelizer: androidx.core.app.RemoteActionCompat read(androidx.versionedparcelable.VersionedParcel)
+com.google.androidbrowserhelper.trusted.ManageDataLauncherActivity: ManageDataLauncherActivity()
+androidx.versionedparcelable.CustomVersionedParcelable: CustomVersionedParcelable()

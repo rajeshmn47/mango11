@@ -1,0 +1,10 @@
+fun.mangogames.twa.app-core-1.1.0-0 /home/user/.gradle/caches/8.8/transforms/2144911bb09dce3a07f407e3b390637e/transformed/core-1.1.0/res
+fun.mangogames.twa.app-browser-1.4.0-1 /home/user/.gradle/caches/8.8/transforms/b511174c15fdde7dea3e957094b4390b/transformed/browser-1.4.0/res
+fun.mangogames.twa.app-androidbrowserhelper-2.5.0-2 /home/user/.gradle/caches/8.8/transforms/d3335fbdff4200978ad121d7b141def7/transformed/androidbrowserhelper-2.5.0/res
+fun.mangogames.twa.app-pngs-3 /home/user/trivedi/newfantasy11/app/build/generated/res/pngs/release
+fun.mangogames.twa.app-resValues-4 /home/user/trivedi/newfantasy11/app/build/generated/res/resValues/release
+fun.mangogames.twa.app-packageReleaseResources-5 /home/user/trivedi/newfantasy11/app/build/intermediates/incremental/release/packageReleaseResources/merged.dir
+fun.mangogames.twa.app-packageReleaseResources-6 /home/user/trivedi/newfantasy11/app/build/intermediates/incremental/release/packageReleaseResources/stripped.dir
+fun.mangogames.twa.app-release-7 /home/user/trivedi/newfantasy11/app/build/intermediates/merged_res/release/mergeReleaseResources
+fun.mangogames.twa.app-main-8 /home/user/trivedi/newfantasy11/app/src/main/res
+fun.mangogames.twa.app-release-9 /home/user/trivedi/newfantasy11/app/src/release/res
